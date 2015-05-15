@@ -1,0 +1,6 @@
+For ./memleak 1:
+In line 11 I changed i <= len to i < len.
+In the if(test == 1) block I deallocated the memory given to the int array with delete [] data.
+For ./memleak 2:
+In line 36 I changed len+1 to just len when setting the null character.
+In line 37 I got rid of an extraneous delete [] word.

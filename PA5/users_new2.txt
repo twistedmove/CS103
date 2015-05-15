@@ -1,0 +1,36 @@
+7
+0
+	Mark Redekopp
+	1978
+	90018
+	1 3 6 
+1
+	Marquis Lee
+	1990
+	90271
+	0 2 
+2
+	Tommy Trojan
+	1885
+	90089
+	1 
+3
+	Max Nikias
+	1945
+	91103
+	0 4 
+4
+	Jane Doe
+	1988
+	90007
+	3 
+5
+	Lebron James
+	1900
+	90001
+	
+6
+	Kevin Durant
+	2000
+	90002
+	0 
